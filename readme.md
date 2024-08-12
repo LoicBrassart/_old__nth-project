@@ -13,4 +13,4 @@
 - `npx commitizen init cz-conventional-changelog --save-dev --save-exact`
 - `npx husky init && npm i`
 - Mettre à jour les fichiers suivants:
-  - `.commitlintrc.json`
+  - `commitlint.config.js`
