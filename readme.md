@@ -14,3 +14,5 @@
 - `npx husky init && npm i`
 - Mettre à jour les fichiers suivants:
   - `commitlint.config.js`
+- Ecrire les premières GHActions et fichiers de conf GHub
+- Initialiser les projets "frontend" et "backend"
