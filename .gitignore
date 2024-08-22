@@ -3,3 +3,4 @@
 biome.json
 .vscode
 persist/
+secrets/

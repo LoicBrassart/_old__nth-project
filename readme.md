@@ -17,6 +17,7 @@
 - Ecrire les premières GHActions et fichiers de conf GHub
 - Initialiser les projets "frontend" et "backend"
 - Faire les réglages du repository (cf ci-dessous)
+- Mettre en place Docker et les services "OotB"
 
 ### GHub Settings
 
@@ -40,7 +41,7 @@
 #### Collaborators
 - Inviter les collaborateurs
 
-### Branches
+#### Branches
 
 ##### Branch protection rule: "master" | "main"
 - [x] Require a pull request before merging
@@ -53,11 +54,13 @@
 - [ ] Require deployments to succeed before merging _(NB: pour l'instant !)_
 - [ ] Do not allow bypassing the above settings _(NB: Bien pour un environnement stable ; peut-être compliqué sur un template en cours de création)_
 
-### Environments
+#### Environments
 - _TODO_
 
-### Deploy keys
+#### Deploy keys
 - _TODO_
 
-### Secrets and variables
+#### Secrets and variables
 - _TODO_
+
+# Bump
